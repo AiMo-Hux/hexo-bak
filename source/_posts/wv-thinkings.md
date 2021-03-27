@@ -3,7 +3,7 @@ title: 寒假结束了，我获得了什么，又收获了什么？
 categories: 生活
 tags: [目标,复盘,生活]
 date: 2021-02-26 18:52:23
-cover: https://s3.ax1x.com/2021/02/26/yzWssS.png
+cover_picture: https://s3.ax1x.com/2021/02/26/yzWssS.png
 ---
 
 (~~作者bb:第一次写生活博文，好紧张AWA~~)
