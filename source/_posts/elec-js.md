@@ -3,7 +3,7 @@ title: 教程 | 什么？JavaScript也能做GUI了？
 date: 2021-02-24 21:08:27
 tags: [Javascript,GUI,Electron]
 categories: 教程
-cover: https://gitee.com/hoshimi-ameyuki/VirtualTieba/raw/master/img/GIF.gif 
+cover_picture: https://gitee.com/hoshimi-ameyuki/VirtualTieba/raw/master/img/GIF.gif 
 ---
 
 ## 第 一 课   巨坑之下载Electron
