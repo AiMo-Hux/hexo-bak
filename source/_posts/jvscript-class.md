@@ -5,7 +5,7 @@ categories:
   - [技术]
   - [教程]
 tags: [Javascript,OOP]
-cover: https://s3.ax1x.com/2021/02/27/6S0j58.png
+cover_picture: https://s3.ax1x.com/2021/02/27/6S0j58.png
 ---
 
 ## 前言
