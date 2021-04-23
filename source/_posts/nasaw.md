@@ -3,7 +3,7 @@ title: Javascript | 艰难的同步io
 date: 2021-02-24 19:50:28
 tags: [同步,Javascript,IO]
 categories: 技术
-cover_picture: https://s3.ax1x.com/2021/02/25/yvYv80.png
+cover: https://s3.ax1x.com/2021/02/25/yvYv80.png
 ---
 
 ## 前言
