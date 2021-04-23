@@ -3,7 +3,7 @@ title: Hexo Theme ZCX：Start
 categories: [[技术],[Hexo-Theme-ZCX]]
 tags: [Hexo,Zcx,Nexmoe]
 date: 2021-03-07 13:40:00
-cover_picture: https://s3.ax1x.com/2021/03/07/6KATrn.png
+cover: https://s3.ax1x.com/2021/03/07/6KATrn.png
 ---
 ## 前言
 
