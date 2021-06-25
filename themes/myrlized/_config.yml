@@ -263,7 +263,7 @@ vendors:
 # UI
 banner:
   enable: true
-  title: アメコーディング
+  title: 페돌오셋의볼로그
   src: /js/ui/banner.js
   border: true
   cloud:
