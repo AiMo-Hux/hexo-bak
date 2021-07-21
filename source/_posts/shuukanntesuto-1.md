@@ -6,7 +6,7 @@ tags:
   - 超越
   - 生活
 categories: 生活
-hide: index
+hide: true
 date: 2020-10-30 18:10:38
 ---
 $$3^2+7$$
