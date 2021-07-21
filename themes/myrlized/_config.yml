@@ -100,7 +100,7 @@ girls:
 # Sidebar Avatar
 avatar:
   enable: true
-  url: https://s1.ax1x.com/2020/10/25/Bescef.png
+  url: https://images.gitee.com/uploads/images/2021/0720/143749_6be4e745_7352575.png
   # If true, the avatar would be dispalyed in circle.
   rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
