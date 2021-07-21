@@ -1,26 +1,8 @@
 ---
-title: アメユキ！のアバウトミー
+title: Fe2O3generator official About me
 date: 2021-02-23 21:28:45
 ---
 
-## Zh-Cn
+We only generate Fe2O3.
 
-一个初中生，就读于HMWGY学校。所在工作室：
-- 23/20 Studio
-
-- InvAlpha Studio
-
-擅长的语言：
-**Javascript** *Python* C++
-
-## Ja
-
-HМWGY中学で勉強する中学生。いるスタージオは：
-
-- 23/20 Studio
-
-- InvAlpha Studio
-
-上手なプログラミング言語：
-
-**Javascript** *Python* C++
+Official Wechat is at (fe2o3generator)
