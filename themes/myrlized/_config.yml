@@ -99,8 +99,8 @@ girls:
 
 # Sidebar Avatar
 avatar:
-  enable: true
-  url: https://z3.ax1x.com/2021/07/21/WwZ1bD.jpg
+  enable: false
+  url: 
   # If true, the avatar would be dispalyed in circle.
   rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
@@ -263,7 +263,7 @@ vendors:
 # UI
 banner:
   enable: true
-  title: 페돌오셋의볼로그
+  title: エッドスペース
   src: /js/ui/banner.js
   border: true
   cloud:
@@ -406,7 +406,7 @@ footer:
 
   live_time:
     enable: true
-    prefix: Fe2O3generator已经悉心照料了本网站
+    prefix: The website has run
     suffix: (●'◡'●)
     start_time: "2020-10-25T00:00:00"
 
